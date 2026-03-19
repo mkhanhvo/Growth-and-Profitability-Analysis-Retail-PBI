@@ -108,7 +108,7 @@ Prioritize scaling high-margin markets such as Canada and high-growth regions li
 
 ### 2️⃣ Market Performance & Growth Analysis
 
-<img width="761" height="536" alt="image" src="https://github.com/user-attachments/assets/77cd7b39-348a-48b0-ae32-b0f9237a8662" />
+<img width="761" height="534" alt="image" src="https://github.com/user-attachments/assets/1364d67d-d58d-4c0b-a5dc-f1793f0599ed" />
 
 This section analyzes market performance over time, focusing on revenue growth, profitability & customer expansion across regions. It aims to identify differences in growth patterns, uncover performance gaps & evaluate the balance between scale and efficiency across markets.
 
@@ -116,7 +116,7 @@ By comparing key metrics such as revenue growth, profit margin & customer growth
 
 ### 📌 Analysis 1. 2012 - Divergent Market Performance with Emerging High Growth Outliers
 
-<img width="1019" height="250" alt="image" src="https://github.com/user-attachments/assets/5fc7b575-d076-4639-9d6c-9edfa9c85ca5" />
+<img width="1018" height="249" alt="image" src="https://github.com/user-attachments/assets/95bec054-6b55-4deb-8baf-8eb14c01e3fc" />
 
 Canada stands out as the **only market achieving the highest revenue growth (~80%+)** while also maintaining the **highest profit margin (~43%) in 2012,** making it the only market that leads in both growth and profitability. **Customer growth** reaches 33.33% YoY, also the **highest among all markets,** however, **total order volume remains the lowest.** This indicates **early stage expansion from a small base** where strong growth is amplified by low initial scale. The combination of high margin & low volume suggests a highly efficient market, **potentially driven by favorable product mix or minimal return impact** but also raises questions about scalability as volume increases
 
@@ -124,7 +124,7 @@ Canada stands out as the **only market achieving the highest revenue growth (~80
 
 ### 📌 Analysis 2. 2013 - Sustained Growth with Early Signs of Performance Divergence
 
-<img width="1019" height="245" alt="image" src="https://github.com/user-attachments/assets/6c941a67-e24b-48db-bd6a-742dbdb749b3" />
+<img width="1016" height="250" alt="image" src="https://github.com/user-attachments/assets/7d070cad-f858-404d-9562-2f33598bfa89" />
 
 Canada maintains the **highest profit margin** despite an 11.8% decline vs 2012. Customer growth reaches 12.5% YoY & orders increase by 25.8% YoY, however, total order volume remains the lowest across markets. This indicates that **Canada’s performance is driven more by efficiency than scale.** The combination of high margin & low volume suggests a **favorable product mix or consistently low return rates** but also raises concerns about limited scalability
 
@@ -134,7 +134,7 @@ Canada maintains the **highest profit margin** despite an 11.8% decline vs 2012.
 
 ### 📌 Analysis 3. 2014 - Growth Diversifies While Margin Pressure Emerges
 
-<img width="1018" height="242" alt="image" src="https://github.com/user-attachments/assets/473ab8e8-8fcb-405c-85fb-0b0c2c10344f" />
+<img width="1016" height="243" alt="image" src="https://github.com/user-attachments/assets/469d587b-27a6-4585-9dd0-0b64bcf96e17" />
 
 **Canada** continues to have the **highest profit margin** despite a further decline of 3.3% vs 2013, while still maintaining the **lowest revenue & growth contribution.** Customer growth also decreases by 11.1% vs 2013, indicating **slowing momentum.** This reinforces the pattern of a **high margin but low scale market,** suggesting that Canada’s profitability is driven by efficiency rather than volume. However, the consistent decline in both margin & customer growth raises **concerns about the sustainability of this performance**
 
