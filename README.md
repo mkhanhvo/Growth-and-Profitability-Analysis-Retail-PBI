@@ -159,3 +159,11 @@ One **potential explanation** for a market exhibiting high profit margin but low
 In the case of Canada, its **0% return rate** across multiple years suggests that strong margin performance **may be driven by factors** such as better product market fit, higher customer satisfaction or more selective purchasing behavior. However this could also indicate a narrower or more premium focused product offering which limits overall transaction volume & constrains revenue scale
 
 Additionally, a low return rate may reflect stricter sales conditions, lower promotional intensity, or more informed customers, all of which can improve profitability but reduce purchase frequency or customer acquisition. **This creates a structural trade & off where operational efficiency and margin optimization come at the expense of scale & growth**
+
+### Recommendation
+- **Reduce return rates in high volume markets** (APAC, EU) by improving product quality, refining product descriptions & aligning customer expectations. With return rates currently around ~6%–8%, even small reductions can significantly improve profit margins at scale
+- Analyze & replicate Canada’s low return model (~0%) by **identifying key drivers** such as **product mix, customer segment or purchase behavior** & selectively applying these practices to other markets where feasible
+- **Optimize product portfolio** in core markets by reducing exposure to high return or low margin products & prioritizing categories that deliver both stable demand & better profitability
+- **Improve operational processes** (logistics, packaging, delivery) to minimize product damage & mismatch, which are common drivers of returns and hidden cost leakage
+- **Test controlled expansion in Canada** by gradually increasing product range or marketing investment while closely monitoring return rate & margin to ensure that scaling does not erode its efficiency advantage
+- **Implement return rate monitoring** as a core KPI across markets, enabling early detection of margin risks & supporting more data driven decisions on pricing, promotions & product strategy
