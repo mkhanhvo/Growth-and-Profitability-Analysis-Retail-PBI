@@ -69,48 +69,76 @@ Global Superstore is a fictional, large-scale global online retailer based in Ne
 
 <img width="623" height="502" alt="image" src="https://github.com/user-attachments/assets/51df859c-b2e9-4389-92ab-f61a441fee18" />
 
-## 📊 Key Insights & Visualizations 
+## 📊 Key Insights & Visualizations
+
 
 ### 1️⃣ Sales Performance & Growth Overview
 
-### 📌 Analysis 1. Analyze Growth Drivers – Revenue, Profit & Customer Dynamics
+<details>
+<summary><b>View full chart</b></summary>
 
-<img width="780" height="533" alt="image" src="https://github.com/user-attachments/assets/528eb09d-41b3-46e8-be9c-0a257137e81a" />
+#### *2011 performance*
+<img width="776" height="532" alt="image" src="https://github.com/user-attachments/assets/de528281-e29b-4109-b1d7-08ab098325bb" />
 
-The business shows consistent year over year growth with revenue **increasing steadily from 18.5% to over 25%.** Profit also grows by **more than 20% annually** with the highest increase of **32.4% in 2013.** Profit margin slightly declines by 1.9% in 2014 compared to the previous year, indicating a minor efficiency drop
+#### *2012 performance*
+<img width="776" height="533" alt="image" src="https://github.com/user-attachments/assets/8cc0e6c3-53c5-43b6-af3b-1dbae0a452f0" />
 
-This growth is **primarily driven by order volume** which increases by **more than 20% each year,** while customer growth remains below 5%. This suggests that existing customers are purchasing more frequently, indicating **strong repeat buying behavior** but new customer acquisition is relatively slow
+#### *2013 performance*
+<img width="777" height="533" alt="image" src="https://github.com/user-attachments/assets/65703d97-0074-46b4-9b9b-b4c2176ac197" />
 
-### Recommendations
-Focus on accelerating customer acquisition to sustain long term growth while maintaining strong engagement & retention strategies for existing customers
+#### *2014 performance*
+<img width="777" height="535" alt="image" src="https://github.com/user-attachments/assets/e77b583d-48df-4787-8f36-696ad5040f04" />
+</details>
 
-### 📌 Analysis 2. Evaluate Growth Efficiency – Profitability & Return Impact
+### 📌 Analysis 1. Scaling Operations & Profitability
 
-<img width="341" height="498" alt="image" src="https://github.com/user-attachments/assets/7c642150-e834-455f-8ac8-d364b24e1791" />
+#### *Figure 1: 4-Year Financial Trajectory (2011 vs 2014)*
 
-Order volume **grows significantly by 51.37%** from **2011 to 2013** & profit margin **improves by 8.44% **during the same period, confirming a **positive impact from increased sales volume.** However, after 2013, although order volume continues to rise, profit margin begins to decline. At the same time, return rate decreases, indicating that **returns are not the primary driver of margin decline**
+<img width="341" height="248" alt="image" src="https://github.com/user-attachments/assets/1b47034f-242d-4513-80cb-2e0384e31a18" />
 
-Customer growth remains very low, creating a potential risk for future growth sustainability. Meanwhile, return rate trends still require attention, as any increase could negatively impact profitability
+<img width="342" height="254" alt="image" src="https://github.com/user-attachments/assets/7bb8e02e-669f-4da6-92ed-3b77cd82a22b" />
 
-### Recommendation
-Investigate other cost drivers such as discounting, pricing strategy & product mix. At the same time, prioritize customer acquisition & monitor return related issues such as logistics quality, product condition after delivery & customer service
+From 2011 to 2014, the business experienced a massive scale up with **Total Revenue nearly doubling from $2.26M to $4.30M.** This expansion was remarkably healthy as **Total Profit** followed a similar upward trend, **rising from $248.9K to $504.2K.** Profit Margin remained resilient, **stabilizing between 11.4% and 11.9%,** peaking in 2013. This 4-year series confirms that this business model is not just growing in size but also maintaining strong operational efficiency
+
+### 📌 Analysis 2. Market & Category Dynamics
+
+#### *Figure 2: Global Market Contribution in 2014 - APAC and EU established as primary profit engines*
+
+<img width="338" height="247" alt="image" src="https://github.com/user-attachments/assets/e8ef1790-d4ff-43f7-a2aa-ace1d9c6a782" />
+
+The data identifies **APAC & EU as primary engines of global store success,** consistently contributing the largest shares of both revenue & profit. From a product perspective, **Technology (Phones & Copiers) & Furniture (Chairs & Bookcases)** have proven to be the **most reliable categories.** These categories have provided steady cash flow necessary to fund the company’s expansion. This series also highlights the dominance of top tier Sales Agents like Anna Andreadi, whose consistent performance over 4 years has been a cornerstone of this growth
 
 ### 📌 Analysis 3. Identify Performance Gaps – Market & Product Opportunities
 
-<img width="677" height="497" alt="image" src="https://github.com/user-attachments/assets/8215b075-c8f1-499d-bfbf-f4e2d43ae419" />
+#### *Figure 3: Category Profitability Comparison - Technology leads in margins while Furniture (specifically Tables) underperforms, creating a structural profit leak*
 
-**APAC & EU** contribute the **largest share of revenue & profit,** while **Canada stands out** with **significantly higher profit margin** despite having the lowest revenue & profit contribution, indicating a high potential but underdeveloped market. In terms of growth, **Canada (2012), Africa (2013) & EMEA (2014)** show the highest revenue YoY increases, **suggesting strong future expansion opportunities** despite not being top contributors currently
+<img width="336" height="249" alt="image" src="https://github.com/user-attachments/assets/2aede201-7e78-4125-89f6-3dc19428dc73" />
+
+Despite overall success, the 4-year trend reveals a **persistent leak in profitability caused by Tables sub-category.** While most categories improved, Tables remained trapped in **negative profit cycle with cumulative losses widening to nearly $20K by 2014.** Additionally, while the overall return rate is manageable at 4.9%, specific spikes in 2014 - such as Copiers in EU (11.56%) & Appliances in APAC (10.71%) —indicate emerging quality control or logistics issues that threaten our net margins
 
 From a product perspective, **Furniture consistently records the lowest profit margin** across all three categories, always remaining below 8%. Additionally, Furniture has relatively **low order volume but the highest return rate** among categories, consistently above 6%, except in 2013 when it drops to 4.8%. This indicates a structural issue where the category generates **low sales efficiency while facing high return related losses,** contributing to the margin decline observed after 2013
 
 ### Recommendation
-Prioritize scaling high-margin markets such as Canada and high-growth regions like Africa and EMEA. For products, reassess the Furniture category by reviewing pricing, cost structure, and product quality to reduce returns and improve profitability
+- Portfolio rationalization: execute a decisive exit strategy for the Tables category in APAC & EU. Reallocate saved capital & warehouse capacity toward Technology sector, which has shown a much higher ROI
+- Operational quality audit: launch an immediate investigation into logistics & quality assurance processes for Copiers & Appliances. The goal is to reduce return rate in EU & APAC back to company average of under 5% to protect profit forecast
+- Market specific expansion: double down on EMEA & EU markets which showed highest Revenue YoY growth (~45.8%) in 2014. Focus on high AOV (Average Order Value) strategies led by top performing agents to maximize value of each customer acquisition
+- Incentivize high margin sales: adjust sales commission structure to favor net Profit over total revenue. This will encourage agents to pivot away from low margin items & focus on star categories identified in 2011-2014 series
 
 ### 2️⃣ Market Performance & Growth Analysis
+<details>
+<summary><b>View full chart</b></summary>
 
-<img width="769" height="541" alt="image" src="https://github.com/user-attachments/assets/41b5d15a-ae97-4046-b6b3-9d6a58d5a5ec" />
+#### *2012 performance*
+<img width="764" height="534" alt="image" src="https://github.com/user-attachments/assets/f2b0843b-5a16-47c1-9af2-e795d280e5c4" />
 
-By comparing key metrics, the scale paradox was discovered: APAC leads global revenue ($3.5M) but achieves a margin of only ~11.6%. In contrast, Canada has the lowest revenue (~$70K) but a margin 2.3 times higher (~27%). Massive scale in top markets is coupled with operational inefficiency or price competition pressures far exceeding those in Canada, such as revenue growth, profit margin & customer growth. The analysis highlights how each market contributes to overall business performance & where potential opportunities or risks may emerge
+#### *2013 performance*
+<img width="761" height="537" alt="image" src="https://github.com/user-attachments/assets/153f5dfb-e27e-46c8-86c4-cd6132ae01ef" />
+
+#### *2014 performance*
+<img width="762" height="535" alt="image" src="https://github.com/user-attachments/assets/14ba365f-bad4-492f-a02e-506ab548a55b" />
+</details>
+
+By comparing key metrics, the scale paradox was discovered: **APAC leads global revenue** ($3.5M) but achieves a **margin of only ~11.6%.** In contrast, **Canada** has the **lowest revenue** estimate at $70K but a **margin 2.3 times higher,** about 27%. Massive scale in top markets is coupled with operational inefficiency or price competition pressures far exceeding those in Canada, such as revenue growth, profit margin & customer growth. The analysis highlights how each market contributes to overall business performance & where potential opportunities or risks may emerge
 
 ### 📌 Analysis 1. Decoding Top Markets (APAC, EU, US)
 
@@ -132,29 +160,30 @@ Despite repeat customers accounting for a large proportion, profitability in thi
 
 Canada reached an ideal business state thanks to three strategic facts:
 
-**2.1 Product Mix**
+#### 2.1 Product Mix
 
 <img width="677" height="274" alt="image" src="https://github.com/user-attachments/assets/adfce9b4-15d1-45c4-9f12-af7d6cee6d40" />
 
-**Looking at AOV variance:**
+#### Looking at AOV variance:
 - Technology Group: Copiers ($678.68), Phones ($560.31) & Appliances ($529.36) have **extremely high AOV & massive Profit Margins (26-35%)**
 - Supplies Group: Labels ($18.34) & Fasteners ($26.64) have minimal AOV
 Canada’s high Profit Margin is not achieved through across the board markups but through a **smart Product Mix.** They sell **large equipment orders** (high AOV) that bring in significant **gross profit,** while Minimal (low AOV) also maintain **healthy margins (30%+)**
 
-**Looking at Canada’s top Profit Margin leaders:** Copiers (35.68% Margin on $7.4k revenue), Tables & Labels (30-35%), Envelopes, Fasteners & Accessories (29-30%)
+#### Looking at Canada’s top Profit Margin leaders:
+- Copiers (35.68% Margin on $7.4k revenue), Tables & Labels (30-35%), Envelopes, Fasteners & Accessories (29-30%)
 Items like Copiers often come with maintenance packages or ink/toner. Meanwhile, small items like Envelopes or Fasteners have extremely high margins because production costs are very low compared to retail prices. Canada appears to be excelling at selling these accessory groups
 
-**2.2 Synergy Between AOV and Loyalty (Repeat Customer)**
+#### 2.2 Synergy Between AOV and Loyalty (Repeat Customer)
 Over the years, Canada’s customers have been predominantly repeat buyers, suggesting a long term trust cycle where initial purchases of small equipment in 2011 paved the way for subsequent system upgrades, such as Phones & Copiers
 
 The fact that repeat customers return to purchase orders valued at $500 - $700 without incurring marketing costs is the reason Canada’s profit margin is surpassing other markets
 
-**2.3 Structural Strengths in Minimal Return Rates, High Retention & Stable AOV**
+#### 2.3 Structural Strengths in Minimal Return Rates, High Retention & Stable AOV
 In retail, reverse logistics is a pofit erosion (shipping, damages, labor), furthermore, high AOV orders like Phones & Copiers usually carry risks of defects or customer dissatisfaction leading to returns. In Canada, **return rate remains at 0,** this proves that **customers are extremely satisfied** or that the **sales/consulting process for high value items is performing exceptionally well,** preserving 100% of the initial gross margin
 
 As a result, Canada completed its expansion phase (2011) & shifted to profit optimization (2013-2014). This loyal customer base maintains the world's **highest margins (26-30%)** despite stagnant revenue scale. On the other hand, the **lack of new customers** in the last two years **indicates saturation.** If this repeat base churns, revenue will collapse as there is no successor generation
 
-**2.4 Volume Analysis: The Trade-off**
+#### 2.4 Volume Analysis: The Trade-off
 Based on data, the scale issue in Canada is clearly evident:
 - Lowest revenue in the system: total revenue in Canada is only around $70K, while major markets like APAC reach up to $3.5M (50 times higher)
 - Customer base: Canada has a thin customer base, this leads to high YoY growth in certain segments (Phones/Accessories up to 170-180%), but in reality, the absolute numbers remain very modest
@@ -170,7 +199,7 @@ Based on data, the scale issue in Canada is clearly evident:
 
 ### 📌 Analysis 3. Regional Expansion – Performance & Growth Constraints
 
-**3.1 Africa - High Efficiency Growth in Developing Markets**
+#### 3.1 Africa - High Efficiency Growth in Developing Markets
 
 <img width="769" height="506" alt="image" src="https://github.com/user-attachments/assets/f1b19f9b-6efd-4542-b61c-28eb07d3cbf6" />
 
@@ -178,7 +207,7 @@ Based on data, the scale issue in Canada is clearly evident:
 
 Africa is demonstrating performance metrics comparable to the Canada model, characterized by **low return rates** & **stable profit margins within the 15-18% range.** Despite its smaller scale compared to major markets, Africa shows **strong performance in Office Supplies** while successfully transitioning toward Technology. A balanced mix of new & repeat customers supports a more sustainable growth trajectory compared to EMEA
 
-**3.2 LATAM - Managing Profitability in Low Margin Environments**
+#### 3.2 LATAM - Managing Profitability in Low Margin Environments
 
 <img width="767" height="505" alt="image" src="https://github.com/user-attachments/assets/7370cbe7-baaa-4b48-bd49-364a32e9ae6b" />
 
@@ -197,7 +226,21 @@ While LATAM generates significant revenue, **profit margins** remain at a **crit
 ### 3️⃣ Product Portfolio Optimization
 **Key Markets: APAC, EU, Canada | Data Period: 2011 – 2014**
 
-<img width="687" height="538" alt="image" src="https://github.com/user-attachments/assets/69c7291a-6206-4882-9c67-16554a1eb188" />
+<details>
+<summary><b>View full chart</b></summary>
+
+#### *2011 performance*
+<img width="687" height="540" alt="image" src="https://github.com/user-attachments/assets/40df313f-c98c-484f-9b56-a3711bcb963f" />
+
+#### *2012 performance*
+<img width="687" height="538" alt="image" src="https://github.com/user-attachments/assets/c2541d3f-6fa8-4122-8cf6-64ab5b5107e1" />
+
+#### *2013 performance*
+<img width="686" height="539" alt="image" src="https://github.com/user-attachments/assets/c6e1dfe6-b268-4183-adcd-1aa5c958c82f" />
+
+#### *2014 performance*
+<img width="686" height="539" alt="image" src="https://github.com/user-attachments/assets/1337c6f6-e924-42b0-acc8-595386041c6d" />
+</details>
 
 ### 📌 Analysis 1. Growth driver - Focus resources on Market Expansion (Scale-up)
 
@@ -230,3 +273,61 @@ Sub-categoryTechnology (Phones, Copiers) & Bookcases categories have emerged as 
 - Margin Protection: Investigate the root causes of the high return rates in Copiers, Appliances & Envelopes to reduce logistics related losses. For Machines, a review of pricing structures or supplier costs is necessary to improve the current thin profit margins
 
 2014 data clearly shows that the business is currently using its Technology profits to subsidize Table losses. To ensure a profitable 2015, the strategy must shift from general selling to targeted growth: reinvesting in our high quality stars while decisively removing the products that drain our resources
+
+### 4️⃣ Sales Agents Performance Analysis
+
+<details>
+<summary><b>View full chart</b></summary>
+  
+#### *2012 performance*
+<img width="761" height="490" alt="image" src="https://github.com/user-attachments/assets/e3aa3c82-f776-4d64-90ba-e5a295efda89" />
+
+#### *2013 performance*
+<img width="763" height="488" alt="image" src="https://github.com/user-attachments/assets/91938b9e-d7a4-4e13-a1c8-d3a5458f1d33" />
+
+#### *2014 performance*
+<img width="766" height="488" alt="image" src="https://github.com/user-attachments/assets/dfdbfcbf-173c-41c0-940a-529d00f741b1" />
+</details>
+
+### 📌 Analysis 1. Top Performers - High Value & High Quality (Investment Priority)
+**Target Agents:** Anna Andreadi, Nora Preis
+
+Anna Andreadi is the undeniable volume leader. Over the 3-year period, she successfully scaled her Total Revenue from approx $0.6M (2012) to $1.0M (2014) while keeping her return rate consistently low at ~4%. This proves her ability to manage large scale accounts without compromising quality. Nora Preis represents the highest efficiency in the team, she consistently maintains the top position in Average Order Value (AOV >$700) & has seen her profit margin climb toward 20% by 2014. Her strategy clearly focuses on high margin & premium products
+
+### Recommendation
+Appoint this group as Strategic Mentors - their portfolios should receive the highest priority for marketing support in 2015 to leverage their ability to close high value, reliable deals
+
+### 📌 Analysis 2. High Momentum & Growth (Expansion Potential)
+
+#### *2012 Performance*
+<img width="760" height="381" alt="image" src="https://github.com/user-attachments/assets/8b952e90-2dce-4c05-87a2-ecf10d0f77fb" />
+
+#### *2014 Performance*
+<img width="767" height="383" alt="image" src="https://github.com/user-attachments/assets/b8c1a911-e186-4167-bc3a-a49f81623eb9" />
+
+**Target Agents:** Deborah Brumfield, Alejandro Ballentine
+
+These agents show the most dynamic movement. From 2012 to 2014, Deborah Brumfield moved from the low revenue quadrant to achieving a revenue growth rate of ~25% in 2014, with her profit margin improving year on year. Alejandro Ballentine has also shown a significant jump in total profit, moving from a near zero profit position in 2012 to becoming a solid profit contributor by 2014. They are successfully capturing new market segments
+
+### Recommendation: 
+These agents are ready for Expansion. Provide them with larger lead generation budgets & access to new sub-categories (like Technology) to help them break into top performer tier in 2015
+
+### 📌 Analysis 3. Steady Cash Flow (Maintenance)
+**Target Agents:** Chuck Magee, Anthony Jacobs
+
+This group provides the company's safety net. Their performance is incredibly stable, Chuck Magee & Anthony Jacobs consistently sit in the center of profit & revenue charts across all three years. They maintain a healthy return rate (5-6%) and steady revenue. While they may not have explosive growth, their predictability is vital for funding other high risk operations
+
+### Recommendation
+Maintain Status Quo. Focus on retention and relationship management for their accounts. These agents are ideal for managing long-term, repeat-business clients where consistency is more valued than aggressive sales tactics
+
+### 📌 Analysis 4. Hight risk grourp - Quality & Margin Issues (Urgent Review)
+
+<img width="767" height="383" alt="image" src="https://github.com/user-attachments/assets/84d5bae9-1201-44aa-b98f-acff67e31148" />
+
+**Target Agents:** Shirley Daniels, Matt Collister
+
+This group shows persistent operational risks. Shirley Daniels has struggled with a dangerously high return rate, peaking at ~15% in 2014, which is the highest in the organization. This suggests a major gap between sales promises & product reality. Matt Collister manages decent volume, but his profit margin remains thin or stagnant. His positioning on the AOV vs. Order Growth chart shows he is working hard (high orders) but not necessarily smart (low order value), potentially over relying on discounts to hit targets
+
+### Recommendation: 
+- Shirley: must undergo a mandatory Sales Quality Audit to reduce return related logistics costs
+- Matt: requires coaching on value based selling to move his focus away from high discount/low value items toward company’s star categories (Phones/Copiers)
