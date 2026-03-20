@@ -193,3 +193,40 @@ While LATAM generates significant revenue, **profit margins** remain at a **crit
 - Logistics Audit: identify specific regions with high return rates to optimize delivery routes or switch local carriers
 
 **For Africa**: increase investment in Technology (Phones, Accessories) to capitalize on the existing low return rate. Africa has the potential to become the next high margin engine if it avoids the revenue growth bias trap
+
+### 3️⃣ Product Portfolio Optimization
+**Key Markets: APAC, EU, Canada | Data Period: 2011 – 2014**
+
+<img width="687" height="538" alt="image" src="https://github.com/user-attachments/assets/69c7291a-6206-4882-9c67-16554a1eb188" />
+
+### 📌 Analysis 1. Growth driver - Focus resources on Market Expansion (Scale-up)
+
+<img width="845" height="520" alt="image" src="https://github.com/user-attachments/assets/c2fca791-9040-4061-bac6-d3ffa34610fb" />
+
+Sub-categoryTechnology (Phones, Copiers) & Bookcases categories have emerged as our **primary profit engines** with 2014 profits reaching **peak levels between $40K & $50K.** This success is rooted in a quality driven growth model, for instance, **Phones maintain a very low return rate of ~4.5%,** proving that our high sales volume is not being undermined by hidden customer service costs. Furthermore, the **high demand** is confirmed by specific products like **Hewlett Fax & Epson Printers** which lead the portfolio with **growth rates above 12%,** signaling a massive opportunity for expansion in the APAC & EU regions
+
+### Recommendation
+- Allocate 60% of the next period marketing budget specifically to these high growth, low return products
+- Prioritize inventory & warehouse capacity in APAC, as it currently generates the highest revenue for Copiers ($169K)
+
+### 📌 Analysis 2. Stable Anchors: Optimizing High Volume Traded Items
+
+<img width="849" height="521" alt="image" src="https://github.com/user-attachments/assets/8d92332d-7da9-45de-bf60-ae41d1f5c9b2" />
+
+**Chairs, Storage & Accessories** serve as the **backbone of our daily operations,** providing massive & consistent order volumes across all years. While their profit margins are more modest than Technology, these items **act as vital traffic builders.** For example, the high density of Accessories orders on the Bubble Chart suggests these small items bring customers into our ecosystem, leading to the purchase of higher value products. In markets like Canada, these categories provide a safe & steady cash flow that keeps the business running smoothly even when other sectors fluctuate
+
+### Recommendation
+- Implement cross selling strategies by bundling Accessories with Phones or Copiers to increase the total value of every transaction
+- Focus on Logistics Efficiency since Chairs & Storage are bulky, negotiating a small 1-2% reduction in shipping rates will directly boost our bottom line profit
+
+### 📌 Analysis 3. Restructure & Filter: Protecting Capital from Losses
+
+<img width="852" height="521" alt="image" src="https://github.com/user-attachments/assets/23c8de49-bd70-4fb5-88cf-d73634f6ef64" />
+
+**The Tables sub-category** is identified as a **primary financial risk.** According to 2014, Tables remain the only category trapped in **negative profit zone with cumulative losses widening to nearly $20K by 2014.** Despite a relatively low return rate, the category suffers from a false growth trap where rising revenue for models like Lesro (9.5%) fails to translate into profit due to high operational & shipping costs. Similarly, **Machines** require restructuring because they are in a **High Volume, Low Profit state.** While sales are significant, the category sits dangerously close to the zero profit line. At the same time, **Copiers, Appliances & Envelopes categories show high operational risk,** with **return rates spiking above 10% in specific markets (e.g., 11.56% for Copiers in EU)** which threatens to erode overall margins
+
+### Recommendation
+- Exit Strategy: stop new stock orders for Tables in the EU & APAC markets to prevent further capital depletion & reallocate resources to profitable Technology sectors
+- Margin Protection: Investigate the root causes of the high return rates in Copiers, Appliances & Envelopes to reduce logistics related losses. For Machines, a review of pricing structures or supplier costs is necessary to improve the current thin profit margins
+
+2014 data clearly shows that the business is currently using its Technology profits to subsidize Table losses. To ensure a profitable 2015, the strategy must shift from general selling to targeted growth: reinvesting in our high quality stars while decisively removing the products that drain our resources
