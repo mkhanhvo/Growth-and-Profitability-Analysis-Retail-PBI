@@ -110,60 +110,65 @@ Prioritize scaling high-margin markets such as Canada and high-growth regions li
 
 <img width="761" height="534" alt="image" src="https://github.com/user-attachments/assets/1364d67d-d58d-4c0b-a5dc-f1793f0599ed" />
 
-This section analyzes market performance over time, focusing on revenue growth, profitability & customer expansion across regions. It aims to identify differences in growth patterns, uncover performance gaps & evaluate the balance between scale and efficiency across markets.
+By comparing key metrics, the scale paradox was discovered: APAC leads global revenue ($3.5M) but achieves a margin of only ~11.6%. In contrast, Canada has the lowest revenue (~$70K) but a margin 2.3 times higher (~27%). Massive scale in top markets is coupled with operational inefficiency or price competition pressures far exceeding those in Canada, such as revenue growth, profit margin & customer growth. The analysis highlights how each market contributes to overall business performance & where potential opportunities or risks may emerge
 
-By comparing key metrics such as revenue growth, profit margin & customer growth, the analysis highlights how each market contributes to overall business performance and where potential opportunities or risks may emerge
-
-### 📌 Analysis 1. 2012 - Divergent Market Performance with Emerging High Growth Outliers
+### 📌 Analysis 1. Decoding Top Markets (APAC, EU, US)
 
 <img width="1018" height="249" alt="image" src="https://github.com/user-attachments/assets/95bec054-6b55-4deb-8baf-8eb14c01e3fc" />
 
-Canada stands out as the **only market achieving the highest revenue growth (~80%+)** while also maintaining the **highest profit margin (~43%) in 2012,** making it the only market that leads in both growth and profitability. **Customer growth** reaches 33.33% YoY, also the **highest among all markets,** however, **total order volume remains the lowest.** This indicates **early stage expansion from a small base** where strong growth is amplified by low initial scale. The combination of high margin & low volume suggests a highly efficient market, **potentially driven by favorable product mix or minimal return impact** but also raises questions about scalability as volume increases
-
-**APAC, EU & US** remain the **top 3 markets by revenue growth** with EU outperforming the average growth level. However, unlike Canada, their growth is supported by larger revenue bases, indicating **more stable & scalable expansion.** The absence of standout profitability alongside growth in these markets suggests that scale may come with efficiency trade offs, **potentially due to higher return rates or operational costs.** Other markets show relatively stable but less significant growth, indicating limited short-term impact on overall performance
-
-### 📌 Analysis 2. 2013 - Sustained Growth with Early Signs of Performance Divergence
-
-<img width="1016" height="250" alt="image" src="https://github.com/user-attachments/assets/7d070cad-f858-404d-9562-2f33598bfa89" />
-
-Canada maintains the **highest profit margin** despite an 11.8% decline vs 2012. Customer growth reaches 12.5% YoY & orders increase by 25.8% YoY, however, total order volume remains the lowest across markets. This indicates that **Canada’s performance is driven more by efficiency than scale.** The combination of high margin & low volume suggests a **favorable product mix or consistently low return rates** but also raises concerns about limited scalability
-
-**APAC, EU & US** continue to be the **top 3 markets by revenue size** with relatively stable growth. However, their **profit margins remain lower than Canada,** suggesting that higher scale may come at the **cost of efficiency.** This could be driven by higher return rates or less optimized cost structures, which dilute profitability
-
-**Africa** records the highest revenue growth & also the highest customer growth, indicating **strong expansion potential** & still in a high-growth phase. Similarly, **EMEA** shows average revenue growth but ranks **top 2 in customer growth,** suggesting increasing market traction that may translate into future revenue growth.
-
-### 📌 Analysis 3. 2014 - Growth Diversifies While Margin Pressure Emerges
-
-<img width="1016" height="243" alt="image" src="https://github.com/user-attachments/assets/469d587b-27a6-4585-9dd0-0b64bcf96e17" />
-
-**Canada** continues to have the **highest profit margin** despite a further decline of 3.3% vs 2013, while still maintaining the **lowest revenue & growth contribution.** Customer growth also decreases by 11.1% vs 2013, indicating **slowing momentum.** This reinforces the pattern of a **high margin but low scale market,** suggesting that Canada’s profitability is driven by efficiency rather than volume. However, the consistent decline in both margin & customer growth raises **concerns about the sustainability of this performance**
-
-**EMEA** achieves the **highest revenue growth** at 45.8% YoY & ranks **top 2 in customer growth,** just behind Africa. This indicates strong market expansion & improving demand. Given both customer & revenue growth are increasing, EMEA appears to be **transitioning from a developing market into a scalable growth driver**
-
-**APAC, EU, & US** remain the **top 3 markets by revenue** but their profit margins are consistently lower than Canada despite higher scale. EU shows the strongest growth among the top 3 with ~37.26% YoY revenue growth, while customer growth remains moderate across all three markets. This suggests that growth in these markets is likely **driven more by increased purchasing behavior** rather than strong customer acquisition & may come with efficiency trade offs
-
-**LATAM** achieves above average revenue & remains in the **top 3 by order volume** but continues to have **low profit margin**, only slightly higher than EMEA. This indicates that while the market has scale, it lacks profitability, potentially due to **unfavorable product mix or higher operational costs,** limiting its overall contribution to profit
-
-### 🌍 Overall observation – Structural Trade off Between Scale & Profitability
-
-#### *High Profit Margin but Low Revenue Contribution in Canada*
-
-<img width="677" height="271" alt="image" src="https://github.com/user-attachments/assets/500a37f9-b44e-4a6d-8c46-831308a6c876" />
-
-#### *High Revenue Markets Show Lower Profit Margins*
-
-<img width="676" height="269" alt="image" src="https://github.com/user-attachments/assets/a65336e1-8fe1-4254-8feb-8df181958bfa" />
-
-One **potential explanation** for a market exhibiting high profit margin but low revenue is a **consistently low return rate.** A near-zero return rate reduces reverse logistics costs, minimizes refund related losses & protects realized revenue, all of which contribute directly to higher profitability. In contrast, markets with **higher return rates** (e.g., ~6%–8% in APAC and EU) **may experience margin erosion** due to additional handling costs, product write offs & operational inefficiencies
-
-In the case of Canada, its **0% return rate** across multiple years suggests that strong margin performance **may be driven by factors** such as better product market fit, higher customer satisfaction or more selective purchasing behavior. However this could also indicate a narrower or more premium focused product offering which limits overall transaction volume & constrains revenue scale
-
-Additionally, a low return rate may reflect stricter sales conditions, lower promotional intensity, or more informed customers, all of which can improve profitability but reduce purchase frequency or customer acquisition. **This creates a structural trade & off where operational efficiency and margin optimization come at the expense of scale & growth**
+Despite repeat customers accounting for a large proportion, profitability in this group is still hindered by three core causes:
+- Profit leakage from Reverse Logistics (Returns): with **high return rates (6.5% - 8.5%),** these markets are spending a fortune on reverse shipping, inventory inspections & liquidating defective goods. Every **high value order returned** in the US **"burns" the profit** of 10 other successful orders
+- Sub-optimal Product Mix: APAC & EU sell a **high volume of Furniture which has low profit margins** (~9%) but expensive storage, shipping costs & is easily damaged. Focusing on revenue from bulky goods has directly dragged down the overall margin
+- Maintenance Growth Maintenance Costs: despite high retention, **maintaining massive scale** & competing in these fierce markets **requires continuous budget allocation** for advertising & discounts for both old & new customers, unlike Canada where customers seek out the business themselves
 
 ### Recommendation
-- **Reduce return rates in high volume markets** (APAC, EU) by improving product quality, refining product descriptions & aligning customer expectations. With return rates currently around ~6%–8%, even small reductions can significantly improve profit margins at scale
-- Analyze & replicate Canada’s low return model (~0%) by **identifying key drivers** such as **product mix, customer segment or purchase behavior** & selectively applying these practices to other markets where feasible
-- **Optimize product portfolio** in core markets by reducing exposure to high return or low margin products & prioritizing categories that deliver both stable demand & better profitability
-- **Improve operational processes** (logistics, packaging, delivery) to minimize product damage & mismatch, which are common drivers of returns and hidden cost leakage
-- **Test controlled expansion in Canada** by gradually increasing product range or marketing investment while closely monitoring return rate & margin to ensure that scaling does not erode its efficiency advantage
-- **Implement return rate monitoring** as a core KPI across markets, enabling early detection of margin risks & supporting more data driven decisions on pricing, promotions & product strategy
+- Reduce return rates from 7% to <4% by apply quality control & sales consulting processes, improve operational processes (logistics, packaging, delivery), refining product descriptions & aligning customer expectations
+- Deploy Loyalty Program to push Repeat Customer ratio higher, reducing dependence on advertising
+- Optimize product portfolio by reducing exposure to high return or low margin products & prioritizing categories that deliver both stable demand & better profitability
+
+### 📌 Analysis 2. Canada Case Study - High Margin Operating Model (Zero Returns, High Retention, High AOV)
+
+Canada reached an ideal business state thanks to three strategic facts:
+
+**2.1 Product Mix**
+**Looking at AOV variance:**
+- Technology Group: Copiers ($678.68), Phones ($560.31) & Appliances ($529.36) have **extremely high AOV & massive Profit Margins (26-35%)**
+- Supplies Group: Labels ($18.34) & Fasteners ($26.64) have minimal AOV
+Canada’s high Profit Margin is not achieved through across the board markups but through a **smart Product Mix.** They sell **large equipment orders** (high AOV) that bring in significant **gross profit,** while Minimal (low AOV) also maintain **healthy margins (30%+)**
+
+**Looking at Canada’s top Profit Margin leaders:** Copiers (35.68% Margin on $7.4k revenue), Tables & Labels (30-35%), Envelopes, Fasteners & Accessories (29-30%)
+Items like Copiers often come with maintenance packages or ink/toner. Meanwhile, small items like Envelopes or Fasteners have extremely high margins because production costs are very low compared to retail prices. Canada appears to be excelling at selling these accessory groups
+
+**2.2 Synergy Between AOV and Loyalty (Repeat Customer)**
+Over the years, Canada’s customers have been predominantly repeat buyers, suggesting a long term trust cycle where initial purchases of small equipment in 2011 paved the way for subsequent system upgrades, such as Phones & Copiers
+
+The fact that repeat customers return to purchase orders valued at $500 - $700 without incurring Marketing costs is the reason Canada’s profit margin is surpassing other markets
+
+**2.3 Structural Strengths in Minimal Return Rates, High Retention & Stable AOV**
+In retail, reverse logistics is a pofit erosion (shipping, damages, labor), furthermore, high AOV orders like Phones & Copiers usually carry risks of defects or customer dissatisfaction leading to returns. In Canada, **return rate remains at 0,** this proves that **customers are extremely satisfied** or that the **sales/consulting process for high value items is performing exceptionally well,** preserving 100% of the initial gross margin.
+
+As a result, Canada completed its expansion phase (2011) & shifted to profit optimization (2013-2014). This loyal customer base maintains the world's **highest margins (26-30%)** despite stagnant revenue scale. On the other hand, the **lack of new customers** in the last two years **indicates saturation.** If this repeat base churns, revenue will collapse as there is no successor generation
+
+### Recommendation
+- Reinvest 5-10% of profit into Marketing to acquire New Customers. The goal is to build a new generation of customers to drive growth for the next period
+- Test controlled expansion by gradually increasing product range while closely monitoring return rate & margin to ensure that scaling does not erode its efficiency advantage
+
+### 📌 Analysis 3. Regional Expansion – Performance & Growth Constraints
+
+**3.1 Africa - High Efficiency Growth in Developing Markets**
+
+Africa is demonstrating performance metrics comparable to the Canada model, characterized by low return rates (3-4%) & stable profit margins within the 15-18% range. Despite its smaller scale compared to major markets, Africa shows strong performance in Office Supplies while successfully transitioning toward Technology. A balanced mix of new & repeat customers supports a more sustainable growth trajectory compared to EMEA
+
+**3.2 LATAM - Managing Profitability in Low Margin Environments**
+
+While LATAM generates significant revenue, profit margins remain at a critical low (~5-7%). Root causes are:
+- Product Composition: the portfolio is heavily weighted toward Furniture & Standard Supplies, categories that typically yield minimal profitability
+- Operational Constraints: similar to APAC, LATAM is impacted by high return rates & elevated logistics costs due to geographic complexity. High price sensitivity in this region necessitates frequent discounting to maintain customer retention
+
+### Recommendation
+
+**For LATAM & EMEA**
+- Strategic Pivot: gradually reduce the emphasis on low margin Furniture & redirect resources toward high AOV Technology categories
+- Logistics Audit: identify specific regions with high return rates to optimize delivery routes or switch local carriers
+
+**For Africa**: increase investment in Technology (Phones, Accessories) to capitalize on the existing low return rate. Africa has the potential to become the next high margin engine if it avoids the revenue growth bias trap
