@@ -108,18 +108,18 @@ Prioritize scaling high-margin markets such as Canada and high-growth regions li
 
 ### 2️⃣ Market Performance & Growth Analysis
 
-<img width="761" height="534" alt="image" src="https://github.com/user-attachments/assets/1364d67d-d58d-4c0b-a5dc-f1793f0599ed" />
+<img width="769" height="541" alt="image" src="https://github.com/user-attachments/assets/41b5d15a-ae97-4046-b6b3-9d6a58d5a5ec" />
 
 By comparing key metrics, the scale paradox was discovered: APAC leads global revenue ($3.5M) but achieves a margin of only ~11.6%. In contrast, Canada has the lowest revenue (~$70K) but a margin 2.3 times higher (~27%). Massive scale in top markets is coupled with operational inefficiency or price competition pressures far exceeding those in Canada, such as revenue growth, profit margin & customer growth. The analysis highlights how each market contributes to overall business performance & where potential opportunities or risks may emerge
 
 ### 📌 Analysis 1. Decoding Top Markets (APAC, EU, US)
 
-<img width="1018" height="249" alt="image" src="https://github.com/user-attachments/assets/95bec054-6b55-4deb-8baf-8eb14c01e3fc" />
+<img width="1016" height="523" alt="image" src="https://github.com/user-attachments/assets/61a02355-4eed-4c9f-b361-b9ba0815ec20" />
 
 Despite repeat customers accounting for a large proportion, profitability in this group is still hindered by three core causes:
 - Profit leakage from Reverse Logistics (Returns): with **high return rates (6.5% - 8.5%),** these markets are spending a fortune on reverse shipping, inventory inspections & liquidating defective goods. Every **high value order returned** in the US **"burns" the profit** of 10 other successful orders
-- Sub-optimal Product Mix: APAC & EU sell a **high volume of Furniture which has low profit margins** (~9%) but expensive storage, shipping costs & is easily damaged. Focusing on revenue from bulky goods has directly dragged down the overall margin
-- Maintenance Growth Maintenance Costs: despite high retention, **maintaining massive scale** & competing in these fierce markets **requires continuous budget allocation** for advertising & discounts for both old & new customers, unlike Canada where customers seek out the business themselves
+- Sub-optimal product mix: APAC & EU sell a **high volume of Furniture which has low profit margins** (~9%) but expensive storage, shipping costs & is easily damaged. Focusing on revenue from bulky goods has directly dragged down the overall margin
+- Maintenance growth maintenance costs: despite high retention, **maintaining massive scale** & competing in these fierce markets **requires continuous budget allocation** for advertising & discounts for both old & new customers, unlike Canada where customers seek out the business themselves
 
 ### Recommendation
 - Reduce return rates from 7% to <4% by apply quality control & sales consulting processes, improve operational processes (logistics, packaging, delivery), refining product descriptions & aligning customer expectations
@@ -128,9 +128,14 @@ Despite repeat customers accounting for a large proportion, profitability in thi
 
 ### 📌 Analysis 2. Canada Case Study - High Margin Operating Model (Zero Returns, High Retention, High AOV)
 
+<img width="768" height="504" alt="image" src="https://github.com/user-attachments/assets/9bc0fdb8-f023-4e13-bc39-95721beabb8b" />
+
 Canada reached an ideal business state thanks to three strategic facts:
 
 **2.1 Product Mix**
+
+<img width="677" height="274" alt="image" src="https://github.com/user-attachments/assets/adfce9b4-15d1-45c4-9f12-af7d6cee6d40" />
+
 **Looking at AOV variance:**
 - Technology Group: Copiers ($678.68), Phones ($560.31) & Appliances ($529.36) have **extremely high AOV & massive Profit Margins (26-35%)**
 - Supplies Group: Labels ($18.34) & Fasteners ($26.64) have minimal AOV
@@ -142,28 +147,44 @@ Items like Copiers often come with maintenance packages or ink/toner. Meanwhile,
 **2.2 Synergy Between AOV and Loyalty (Repeat Customer)**
 Over the years, Canada’s customers have been predominantly repeat buyers, suggesting a long term trust cycle where initial purchases of small equipment in 2011 paved the way for subsequent system upgrades, such as Phones & Copiers
 
-The fact that repeat customers return to purchase orders valued at $500 - $700 without incurring Marketing costs is the reason Canada’s profit margin is surpassing other markets
+The fact that repeat customers return to purchase orders valued at $500 - $700 without incurring marketing costs is the reason Canada’s profit margin is surpassing other markets
 
 **2.3 Structural Strengths in Minimal Return Rates, High Retention & Stable AOV**
-In retail, reverse logistics is a pofit erosion (shipping, damages, labor), furthermore, high AOV orders like Phones & Copiers usually carry risks of defects or customer dissatisfaction leading to returns. In Canada, **return rate remains at 0,** this proves that **customers are extremely satisfied** or that the **sales/consulting process for high value items is performing exceptionally well,** preserving 100% of the initial gross margin.
+In retail, reverse logistics is a pofit erosion (shipping, damages, labor), furthermore, high AOV orders like Phones & Copiers usually carry risks of defects or customer dissatisfaction leading to returns. In Canada, **return rate remains at 0,** this proves that **customers are extremely satisfied** or that the **sales/consulting process for high value items is performing exceptionally well,** preserving 100% of the initial gross margin
 
 As a result, Canada completed its expansion phase (2011) & shifted to profit optimization (2013-2014). This loyal customer base maintains the world's **highest margins (26-30%)** despite stagnant revenue scale. On the other hand, the **lack of new customers** in the last two years **indicates saturation.** If this repeat base churns, revenue will collapse as there is no successor generation
+
+**2.4 Volume Analysis: The Trade-off**
+Based on data, the scale issue in Canada is clearly evident:
+- Lowest revenue in the system: total revenue in Canada is only around $70K, while major markets like APAC reach up to $3.5M (50 times higher)
+- Customer base: Canada has a thin customer base, this leads to high YoY growth in certain segments (Phones/Accessories up to 170-180%), but in reality, the absolute numbers remain very modest
+- Saturation risk: relying almost 100% on repeat customers is a positive sign of loyalty, but it is also a trap. Without a stream of new customer acquisitions, revenue will soon hit a ceiling
 
 ### Recommendation
 - Reinvest 5-10% of profit into Marketing to acquire New Customers. The goal is to build a new generation of customers to drive growth for the next period
 - Test controlled expansion by gradually increasing product range while closely monitoring return rate & margin to ensure that scaling does not erode its efficiency advantage
+- Expanding physical/digital touchpoint: if current operations in Canada are concentrated in only a few areas, opening additional points of sale in major cities (Toronto, Vancouver, Montreal) is essential to reach new customer segments
+- Developing Omni-channel: leverage existing **0% return rate** operational process to boost E-commerce. The high quality consultation process (as proven by satisfaction indices) can be deployed via online consultation to scale up without requiring excessive physical headcount
+- Leveraging high AOV: beiseds selling individual product, Canada team should bundle products into "All in one Office" solutions for Small & Medium Enterprises (SMEs). This helps increase **Basket Size** & capitalizes on the existing customer base that has a need for system upgrade
+- Establish long term supply contracts instead of individual retail orders. This will solve the problem of stabilizing volume & achieving a much larger scale compared to individual customers
 
 ### 📌 Analysis 3. Regional Expansion – Performance & Growth Constraints
 
 **3.1 Africa - High Efficiency Growth in Developing Markets**
 
-Africa is demonstrating performance metrics comparable to the Canada model, characterized by low return rates (3-4%) & stable profit margins within the 15-18% range. Despite its smaller scale compared to major markets, Africa shows strong performance in Office Supplies while successfully transitioning toward Technology. A balanced mix of new & repeat customers supports a more sustainable growth trajectory compared to EMEA
+<img width="769" height="506" alt="image" src="https://github.com/user-attachments/assets/f1b19f9b-6efd-4542-b61c-28eb07d3cbf6" />
+
+<img width="511" height="208" alt="image" src="https://github.com/user-attachments/assets/e0d3b822-1cdc-4b21-b8fd-57ad21e83fe8" />
+
+Africa is demonstrating performance metrics comparable to the Canada model, characterized by **low return rates** & **stable profit margins within the 15-18% range.** Despite its smaller scale compared to major markets, Africa shows **strong performance in Office Supplies** while successfully transitioning toward Technology. A balanced mix of new & repeat customers supports a more sustainable growth trajectory compared to EMEA
 
 **3.2 LATAM - Managing Profitability in Low Margin Environments**
 
-While LATAM generates significant revenue, profit margins remain at a critical low (~5-7%). Root causes are:
-- Product Composition: the portfolio is heavily weighted toward Furniture & Standard Supplies, categories that typically yield minimal profitability
-- Operational Constraints: similar to APAC, LATAM is impacted by high return rates & elevated logistics costs due to geographic complexity. High price sensitivity in this region necessitates frequent discounting to maintain customer retention
+<img width="767" height="505" alt="image" src="https://github.com/user-attachments/assets/7370cbe7-baaa-4b48-bd49-364a32e9ae6b" />
+
+While LATAM generates significant revenue, **profit margins** remain at a **critical low (~5-7%).** Root causes are:
+- Product composition: the portfolio is heavily weighted toward Furniture & Standard Supplies, categories that typically yield minimal profitability
+- Operational constraints: similar to APAC, LATAM is impacted by high return rates & elevated logistics costs due to geographic complexity. High price sensitivity in this region necessitates frequent discounting to maintain customer retention
 
 ### Recommendation
 
