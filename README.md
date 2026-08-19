@@ -36,32 +36,32 @@ Global Superstore is a fictional, large-scale global online retailer based in Ne
 #### 2️⃣ Table Schema & Data Snapshot
 
 <details>
-<summary><b>Tabe 1: Order</b></summary>
+<summary><b>Table 1: Order</b></summary>
 <img width="767" height="96" alt="image" src="https://github.com/user-attachments/assets/494dad92-4249-406d-802a-02990c88c89f" />
 </details>
 
 <details>
-<summary><b>Tabe 2: Date</b></summary>
+<summary><b>Table 2: Date</b></summary>
 <img width="563" height="595" alt="image" src="https://github.com/user-attachments/assets/5b7a3396-ee63-4461-bede-f929e4315404" />
 </details>
 
 <details>
-<summary><b>Tabe 3: Product</b></summary>
+<summary><b>Table 3: Product</b></summary>
 <img width="616" height="110" alt="image" src="https://github.com/user-attachments/assets/112bf410-c7f1-4284-ad89-43d60b2f86e8" />
 </details>
 
 <details>
-<summary><b>Tabe 4: People</b></summary>
+<summary><b>Table 4: People</b></summary>
 <img width="175" height="299" alt="image" src="https://github.com/user-attachments/assets/a08eeefe-4b23-4d5b-beb8-bedf622a5409" />
 </details>
 
 <details>
-<summary><b>Tabe 5: Return</b></summary>
+<summary><b>Table 5: Return</b></summary>
 <img width="173" height="593" alt="image" src="https://github.com/user-attachments/assets/02786cbd-6e71-4699-a0fd-97c38dcb2f39" />
 </details>
 
 <details>
-<summary><b>Tabe 6: Geography</b></summary>
+<summary><b>Table 6: Geography</b></summary>
 <img width="478" height="97" alt="image" src="https://github.com/user-attachments/assets/36012529-b66f-44a7-813e-f22a90a2a752" />
 </details>
 
